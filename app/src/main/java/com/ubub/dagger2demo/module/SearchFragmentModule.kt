@@ -1,7 +1,7 @@
-package com.ubub.dragger2demo.module
+package com.ubub.dagger2demo.module
 
-import com.ubub.dragger2demo.SearchFragment
-import com.ubub.dragger2demo.SearchFragmentView
+import com.ubub.dagger2demo.SearchFragment
+import com.ubub.dagger2demo.SearchFragmentView
 import dagger.Module
 import dagger.Provides
 

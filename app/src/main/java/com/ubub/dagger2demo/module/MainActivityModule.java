@@ -1,8 +1,8 @@
-package com.ubub.dragger2demo.module;
+package com.ubub.dagger2demo.module;
 
-import com.ubub.dragger2demo.MainActivity;
-import com.ubub.dragger2demo.MainPresenter;
-import com.ubub.dragger2demo.MainView;
+import com.ubub.dagger2demo.MainActivity;
+import com.ubub.dagger2demo.MainPresenter;
+import com.ubub.dagger2demo.MainView;
 
 import dagger.Binds;
 import dagger.Module;

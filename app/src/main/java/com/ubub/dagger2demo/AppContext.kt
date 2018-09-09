@@ -1,6 +1,6 @@
-package com.ubub.dragger2demo
+package com.ubub.dagger2demo
 
-import com.ubub.dragger2demo.componet.DaggerAppComponent
+import com.ubub.dagger2demo.componet.DaggerAppComponent
 import dagger.android.AndroidInjector
 import dagger.android.support.DaggerApplication
 
@@ -9,6 +9,7 @@ import dagger.android.support.DaggerApplication
  * wangduheng26@gmail.com
  */
 class AppContext : DaggerApplication() {
+
     override fun applicationInjector(): AndroidInjector<out DaggerApplication> {
         return DaggerAppComponent.builder().create(this)
     }

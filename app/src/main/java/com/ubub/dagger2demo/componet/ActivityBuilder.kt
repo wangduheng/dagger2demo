@@ -1,9 +1,9 @@
-package com.ubub.dragger2demo.componet
+package com.ubub.dagger2demo.componet
 
-import com.ubub.dragger2demo.MainActivity
-import com.ubub.dragger2demo.SearchActivity
-import com.ubub.dragger2demo.module.MainActivityModule
-import com.ubub.dragger2demo.module.SearchActivityModule
+import com.ubub.dagger2demo.MainActivity
+import com.ubub.dagger2demo.SearchActivity
+import com.ubub.dagger2demo.module.MainActivityModule
+import com.ubub.dagger2demo.module.SearchActivityModule
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 

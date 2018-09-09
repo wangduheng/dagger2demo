@@ -1,10 +1,8 @@
-package com.ubub.dragger2demo.componet
+package com.ubub.dagger2demo.componet
 
-import com.ubub.dragger2demo.AppContext
-import com.ubub.dragger2demo.module.AppModule
-import dagger.BindsInstance
+import com.ubub.dagger2demo.AppContext
+import com.ubub.dagger2demo.module.AppModule
 import dagger.Component
-import dagger.android.AndroidInjectionModule
 import dagger.android.AndroidInjector
 import dagger.android.support.AndroidSupportInjectionModule
 import javax.inject.Singleton

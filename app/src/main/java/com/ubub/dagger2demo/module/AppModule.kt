@@ -1,8 +1,8 @@
-package com.ubub.dragger2demo.module
+package com.ubub.dagger2demo.module
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.ubub.dragger2demo.AppContext
+import com.ubub.dagger2demo.AppContext
 import dagger.Module
 import dagger.Provides
 import javax.inject.Singleton

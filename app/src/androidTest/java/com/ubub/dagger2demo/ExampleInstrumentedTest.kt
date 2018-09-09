@@ -1,4 +1,4 @@
-package com.ubub.dragger2demo
+package com.ubub.dagger2demo
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

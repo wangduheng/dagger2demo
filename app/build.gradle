@@ -8,7 +8,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.ubub.dragger2demo"
+        applicationId "com.ubub.dagger2demo"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1

@@ -1,11 +1,8 @@
-package com.ubub.dragger2demo.module;
+package com.ubub.dagger2demo.module;
 
-import com.ubub.dragger2demo.MainActivity;
-import com.ubub.dragger2demo.MainPresenter;
-import com.ubub.dragger2demo.MainView;
-import com.ubub.dragger2demo.SearchActivity;
-import com.ubub.dragger2demo.SearchPresenter;
-import com.ubub.dragger2demo.SearchView;
+import com.ubub.dagger2demo.SearchActivity;
+import com.ubub.dagger2demo.SearchPresenter;
+import com.ubub.dagger2demo.SearchView;
 
 import dagger.Binds;
 import dagger.Module;

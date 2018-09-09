@@ -1,4 +1,4 @@
-package com.ubub.dragger2demo
+package com.ubub.dagger2demo
 
 /**
  * Created by wangduheng26 on 8/9/2018 AD.

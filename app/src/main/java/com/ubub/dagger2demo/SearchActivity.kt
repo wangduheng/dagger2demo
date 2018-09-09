@@ -1,4 +1,4 @@
-package com.ubub.dragger2demo
+package com.ubub.dagger2demo
 
 import android.os.Bundle
 import android.util.Log
