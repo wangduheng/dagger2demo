@@ -1,4 +1,4 @@
-package com.ubub.dagger2demo
+package com.ubub.dagger2demo.presenter
 
 import android.util.Log
 import javax.inject.Inject

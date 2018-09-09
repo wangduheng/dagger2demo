@@ -1,8 +1,8 @@
 package com.ubub.dagger2demo.module;
 
-import com.ubub.dagger2demo.SearchActivity;
-import com.ubub.dagger2demo.SearchPresenter;
-import com.ubub.dagger2demo.SearchView;
+import com.ubub.dagger2demo.ui.SearchActivity;
+import com.ubub.dagger2demo.presenter.SearchPresenter;
+import com.ubub.dagger2demo.presenter.SearchView;
 
 import dagger.Binds;
 import dagger.Module;

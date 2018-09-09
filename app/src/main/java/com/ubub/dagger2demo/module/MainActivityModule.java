@@ -1,8 +1,8 @@
 package com.ubub.dagger2demo.module;
 
-import com.ubub.dagger2demo.MainActivity;
-import com.ubub.dagger2demo.MainPresenter;
-import com.ubub.dagger2demo.MainView;
+import com.ubub.dagger2demo.ui.MainActivity;
+import com.ubub.dagger2demo.presenter.MainPresenter;
+import com.ubub.dagger2demo.presenter.MainView;
 
 import dagger.Binds;
 import dagger.Module;

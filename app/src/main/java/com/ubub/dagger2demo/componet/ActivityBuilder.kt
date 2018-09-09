@@ -1,7 +1,7 @@
 package com.ubub.dagger2demo.componet
 
-import com.ubub.dagger2demo.MainActivity
-import com.ubub.dagger2demo.SearchActivity
+import com.ubub.dagger2demo.ui.MainActivity
+import com.ubub.dagger2demo.ui.SearchActivity
 import com.ubub.dagger2demo.module.MainActivityModule
 import com.ubub.dagger2demo.module.SearchActivityModule
 import dagger.Module

@@ -1,8 +1,11 @@
-package com.ubub.dagger2demo
+package com.ubub.dagger2demo.ui
 
 import android.os.Bundle
 import android.util.Log
 import androidx.fragment.app.Fragment
+import com.ubub.dagger2demo.R
+import com.ubub.dagger2demo.presenter.SearchPresenter
+import com.ubub.dagger2demo.presenter.SearchView
 import dagger.android.AndroidInjection
 import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector

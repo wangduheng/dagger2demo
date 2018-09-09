@@ -1,6 +1,6 @@
 package com.ubub.dagger2demo.componet
 
-import com.ubub.dagger2demo.SearchFragment
+import com.ubub.dagger2demo.ui.SearchFragment
 import com.ubub.dagger2demo.module.SearchFragmentModule
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
